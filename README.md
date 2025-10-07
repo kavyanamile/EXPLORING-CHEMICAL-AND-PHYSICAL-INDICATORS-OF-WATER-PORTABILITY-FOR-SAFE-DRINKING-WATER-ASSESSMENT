@@ -1,0 +1,2 @@
+# EXPLORING-CHEMICAL-AND-PHYSICAL-INDICATORS-OF-WATER-PORTABILITY-FOR-SAFE-DRINKING-WATER-ASSESSMENT
+It applies machine learning techniques to assess the potability  of water using its chemical and physical indicators like pH, turbidity, and hardness. Traditional water testing is slow and costly, requiring lab analysis. Here, machine learning accelerates and Making fast, reliable water safety checks possible even in places with limited resources.
